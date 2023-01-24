@@ -1,4 +1,4 @@
 [build]
   base    = "/"
   publish = "your_site/_site"
-  command = "npm run build"
+  command = "npm i && npm run build"
